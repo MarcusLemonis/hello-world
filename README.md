@@ -9,8 +9,8 @@ Robenus' Website
  <br>
  I like:
  <ul>
-<li>To watch Shark Tank</li
-<li>Code (infact this whole webpage is made from coding)</li>
+  <li>To watch Shark Tank</li>
+<li>Code (in fact this whole webpage is made from coding)</li>
  <li>Eat good food</li>
   <li>Stay Fit</li>
   </ul>
