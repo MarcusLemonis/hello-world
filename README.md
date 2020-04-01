@@ -23,6 +23,6 @@ Robenus' Motivational Website
   <li>Mr.Beast</li>
    </p>
  Tell me an important person in your life below!
- <from action="https://docs.google.com/document/d/1N3XLEyp34Odu31ZifVX8p3BLNZvcC-KAMFaJ-j034MM/edit"</form>
+ <form action="https://docs.google.com/document/d/1N3XLEyp34Odu31ZifVX8p3BLNZvcC-KAMFaJ-j034MM/edit"</form>
  <button type="submit">Submit</button>
 </html>
